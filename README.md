@@ -88,10 +88,10 @@ This workshop contains seven interactive activities.
 
 You can see potential solutions for these activities by navigating to the various branches:
 
-[Activity One Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-one)
-[Activity Two Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-two)
-[Activity Three Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-three)
-[Activity Four Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-four)
-[Activity Five Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-five)
-[Activity Six Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-six)
-[Activity Seven Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-seven)
+- [Activity One Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-one)
+- [Activity Two Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-two)
+- [Activity Three Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-three)
+- [Activity Four Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-four)
+- [Activity Five Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-five)
+- [Activity Six Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-six)
+- [Activity Seven Solution](https://github.com/CypressCecelia/cypress-testing-angular-workshop/tree/activity-seven)
