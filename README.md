@@ -84,6 +84,8 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 ## WORKSHOP OUTLINE
 
+[Workshop Slides](https://cypress.slides.com/cecelia/testing-angular-applications-with-cypress)
+
 This workshop contains seven interactive activities.
 
 You can see potential solutions for these activities by navigating to the various branches:
