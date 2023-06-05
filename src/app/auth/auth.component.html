@@ -12,7 +12,7 @@
         <form [formGroup]="authForm" (ngSubmit)="submitForm()">
           <fieldset [disabled]="isSubmitting">
             <fieldset class="form-group">
-              <input
+              <input id="auth-user-username"
                 formControlName="username"
                 placeholder="Username"
                 class="form-control form-control-lg"
@@ -20,7 +20,7 @@
                 *ngIf="authType == 'register'" />
             </fieldset>
             <fieldset class="form-group">
-              <input
+              <input id="auth-user-email"
                 formControlName="email"
                 placeholder="Email"
                 class="form-control form-control-lg"
@@ -28,12 +28,13 @@
             </fieldset>
             <fieldset class="form-group">
               <input
+                id="auth-user-pass"
                 formControlName="password"
                 placeholder="Password"
                 class="form-control form-control-lg"
                 type="password" />
             </fieldset>
-            <button class="btn btn-lg btn-primary pull-xs-right" [disabled]="!authForm.valid" type="submit">
+            <button class="btn btn-lg btn-primary pull-xs-right" type="submit">
               {{ title }}
             </button>
           </fieldset>
